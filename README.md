@@ -6,7 +6,7 @@ Welcome to my **10 Days of NLP** journey! This repository documents my daily pro
 
 ## 📑 Table of Contents
 - [Introduction](#introduction)
-- [Daily Progress](#daily-progress)
+- [Content Table](#content-table)
 - [Contact](#contact)
 
 ## 📚 Introduction
@@ -15,7 +15,7 @@ Natural Language Processing (NLP) is a captivating field at the intersection of 
 
 
 
-## 📆 Daily Progress
+## 📆 Content Table
 
 | Day | Topic                           |
 | --- | ------------------------------- |
@@ -29,9 +29,11 @@ Natural Language Processing (NLP) is a captivating field at the intersection of 
 
 
 
-## ✨Datasets Used
+## ✨Datasets & Resources Used
 - [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
-
+- [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/view?resourcekey=0-wjGZdNAUop6WykTtMip30g)
+- [Game Of Thrones books](https://www.kaggle.com/datasets/khulasasndh/game-of-thrones-books)
+- [en_core_web_sm-3.0.0.tar.gz](https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz)
 
 ## 📬 Contact
 
